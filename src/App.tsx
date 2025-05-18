@@ -1,35 +1,31 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import Board from "./Board";
+import Modal from "./components/Modal";
+import Header from "./Header";
+import "./index.css";
 
-function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+const blur = (isOpen: string) => (isOpen === "" ? "" : "blur-md");
+interface Content {
+  questImg: string | undefined;
+  questText: string | undefined;
+  answerOptions: string[];
 }
 
-export default App
+function App() {
+  const [content, setContent] = useState<string>("");
+  return (
+    <>
+      <Modal content={content} close={()=> }/>
+      <main
+        className={`w-dvh h-dvh font-anton py-6 bg-black-100 overflow-hidden flex flex-col gap-6 text-center ${blur(
+          content
+        )}`}
+      >
+        <Header />
+        <Board />
+      </main>
+    </>
+  );
+}
+
+export default App;
