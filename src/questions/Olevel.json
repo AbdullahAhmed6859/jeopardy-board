@@ -1,0 +1,237 @@
+{
+  "categories": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "CS",
+    "Environmental Studies",
+    "Mystery"
+  ],
+  "questions": [
+    [
+      {
+        "points": 10,
+        "question": "The energy currency produced in the light reaction of photosynthesis.",
+        "answer": "ATP."
+      },
+      {
+        "points": 20,
+        "question": "Apart from hearing what other function the ear performs.?",
+        "answer": "Balancing."
+      },
+      {
+        "points": 30,
+        "question": "What would happen if a red blood cell were placed in pure water?",
+        "answer": "It would swell and burst (lysis)."
+      },
+      {
+        "points": 40,
+        "question": "Which organ maintains blood sugar level?",
+        "answer": "Pancreas."
+      },
+      {
+        "points": 50,
+        "question": "The flap of tissue that prevents food from entering the trachea when swallowing.",
+        "answer": "Epiglottis."
+      },
+      {
+        "points": 60,
+        "question": "In genetics, what is a dominant allele?",
+        "answer": "An allele that is always expressed, even if only one copy is present."
+      }
+    ],
+    [
+      {
+        "points": 10,
+        "question": "What is the smallest particle of an element that can exist independently and retain the properties of that element?\nA) Molecule\nB) Atom\nC) lon\nD) Compound",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 20,
+        "question": "What is the systematic IUPAC name for the compound CH3CH2CH(CH3)CH2CH3?\nA) 2-Methylpentane\nB) 3-Methylpentane\nC) 2-Ethylbutane\nD) Hexane",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 30,
+        "question": "Which of the following is the functional group present in carboxylic acids?\nA)-OH\nB)-CHO\nC) -COOH\nD) -NH2",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 40,
+        "question": "When a metal oxide reacts with water, it forms a base.\nWhat is the pH range typically associated with a basic solution?\nA) Less than 7\nB) Exactly 7\nC) Greater than 7\nD) Between 0 and 14 (no specific range)",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 50,
+        "question": "In the Haber process for producing ammonia, the balanced equation is:\nN2 + 3H2 -> 2NH3\nHow many moles of ammonia NH3 are produced from 3 moles of nitrogen gas 3N2, assuming excess hydrogen?\nA) 2 moles\nB) 3 moles\nC) 6 moles\nD) 9 moles",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 60,
+        "question": "During the electrolysis of molten sodium chloride (NaCl), what substance is produced at the cathode, and why?\nA) Chlorine gas, because it gains electrons\nB)Sodium metal, because Na ions are reduced\nC) Hydrogen gas, because water is present\nD) Oxygen gas, because Cl ions are oxidized",
+        "answer": "Answer not provided"
+      }
+    ],
+    [
+      {
+        "points": 10,
+        "question": "Order the following 4 colors of light from the one with the LONGEST wavelength to the SHORTEST wavelength: orange; violet; red; yellow",
+        "answer": "Red, Orange, Yellow, Violet"
+      },
+      {
+        "points": 20,
+        "question": "Which part of the electromagnetic spectrum helps us see colors around us?",
+        "answer": "Visible"
+      },
+      {
+        "points": 30,
+        "question": "A green light looks blue when seen in the reflection from the surface of a piece of non-absorbing glass.\nWhat color does the light appear when looking through the glass?",
+        "answer": "Yellow"
+      },
+      {
+        "points": 40,
+        "question": "A 10-kilogram hay bale is raised to 5 meters above a barn floor and is then lowered to 4 meters below the floor.\nRelative to its starting position on the floor, what is the final gravitational potential energy of the bale, in joules, if g=10 Nm^-2?",
+        "answer": "-400 (must give negative value)"
+      },
+      {
+        "points": 50,
+        "question": "The Meissner effect is most directly associated with which of the following:\nA) Superconductors\nB) Rare earth magnets\nC) Very strong electromagnets\nD) Tesla coils",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 60,
+        "question": "What is the abbreviated name of the most common field effect transistor in modern electronic circuitry:",
+        "answer": "MOSFET"
+      }
+    ],
+    [
+      {
+        "points": 10,
+        "question": "What is the sum of angles in a triangle?",
+        "answer": "180"
+      },
+      {
+        "points": 20,
+        "question": "If a^2 - 16 = 33, find the possible values of a.",
+        "answer": "7 and -7"
+      },
+      {
+        "points": 30,
+        "question": "The sum of two numbers is 17 and their product is 60. Find the numbers.",
+        "answer": "12 and 5"
+      },
+      {
+        "points": 40,
+        "question": "A=[3 -2\n1/2 4]\nFind its determinant:",
+        "answer": "13"
+      },
+      {
+        "points": 50,
+        "question": "Simplify: (3^9 x 3^-2) / (3^4 x 3^0)",
+        "answer": "27 or 3^3"
+      },
+      {
+        "points": 60,
+        "question": "If tan0 = 4/3 what is sine?",
+        "answer": "4/5"
+      }
+    ],
+    [
+      {
+        "points": 10,
+        "question": "Which of the following is the smallest unit of data in a computer?\na) Bit\nb) KB\nc) Nibble\nd) Byte",
+        "answer": "a) Bit"
+      },
+      {
+        "points": 20,
+        "question": "All C language functions that do not return values should be declared as returning type\na) empty.\nb) int.\nc) null.\nd) void",
+        "answer": "d) void"
+      },
+      {
+        "points": 30,
+        "question": "What are the disadvantages of arrays?\na) Index value of an array can be negative\nb) Elements are sequentially accessed\nc) Data structure like queue or stack cannot be implemented\nd) There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+        "answer": "d) There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
+      },
+      {
+        "points": 40,
+        "question": "Which of the following is the correct binary representation of the given octal number? (345)?\n(A) 011000101\n(B) 01100010\n(C) 111000101\n(D) 011100101",
+        "answer": "D) 011100101"
+      },
+      {
+        "points": 50,
+        "question": "Which of the following statements are correct regarding Database Management System?\n(i) It is a collection of data.\n(ii) It provides an abstract view of data that hides the details.\n(iii) It is a computerized record-keeping system.\n(iv) It allows users to define, store, retrieve and update the information contained in the database.\n(A) (i) and (ii) only\n(B) (ii) and (iii) only\n(C) (i), (ii) and (iv)\n(D) (i), (ii), (iii) and (iv)",
+        "answer": "D) (i), (ii), (iii) and (iv)"
+      },
+      {
+        "points": 60,
+        "question": "The prefix form of A-B/(C*D^E) is?\na) -A/B*C^DE\nb) -A/BC*^DE\nc) -ABCD*^DE\nd) -/*^ACBDE",
+        "answer": "a) -A/B*C^DE"
+      }
+    ],
+    [
+      {
+        "points": 10,
+        "question": "Which pollutant is primarily responsible for ozone layer depletion?\na) Carbon monoxide\nb) Sulfur dioxide\nc) Chlorofluorocarbons (CFCs)\nd) Methane",
+        "answer": "c) CHLOROFLUOROCARBONS"
+      },
+      {
+        "points": 20,
+        "question": "Which of the following is a sedimentary rock:\na) slate\nb) marble\nc) basalt\nd) sandstone",
+        "answer": "d) SANDSTONE"
+      },
+      {
+        "points": 30,
+        "question": "Mount Vesuvius in Italy is a typical:\na) mud volcano\nb) caldera\nc) cinder cone\nd) composite volcano",
+        "answer": "d) COMPOSITE VOLCANO"
+      },
+      {
+        "points": 40,
+        "question": "What is the main environmental impact of eutrophication?\na). Increased fish population\nb) Oxygen depletion\nc) Improved water clarity\nd) Reduced algae growth",
+        "answer": "b) OXYGEN DEPLETION"
+      },
+      {
+        "points": 50,
+        "question": "Which farming practice is considered sustainable?\na) Monoculture\nb) Slash-and-burn\nc) Crop rotation\nd) Overgrazing",
+        "answer": "c) CROP ROTATION"
+      },
+      {
+        "points": 60,
+        "question": "When Environmental Lapse Rate (ELR) is greater than Adiabatic Lapse Rate (ALR), then which of the following occurs?\na) Super adiabatic lapse rate\nb) Neutral lapse rate\nc) Adiabatic lapse rate\nd) Sub adiabatic lapse rate",
+        "answer": "a) SUPER ADIABATIC LAPSE RATE"
+      }
+    ],
+    [
+      {
+        "points": 10,
+        "question": "Which female Nobel laureate in Physics was awarded for her work on radioactivity?\na) Lise Meitner\nb) Irène Joliot-Curie\nc) Marie Curie\nd) Donna Strickland",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 20,
+        "question": "Who became the first woman to win the Nobel Prize in Chemistry for discovering the structure of vitamin B12 and insulin?\na) Rosalind Franklin\nb) Dorothy Hodgkin\nc) Ada Yonath\nd) Frances Arnold",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 30,
+        "question": "Who is the first woman to win the Nobel Prize in Physics in the 21st century, recognized for her work on laser physics?\na) Andrea Ghez\nb) Donna Strickland\nc) Lene Hau\nd) Maria Goeppert-Mayer",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 40,
+        "question": "Which female Nobel laureate shared the 2020 Nobel Prize in Physics for discovering supermassive black holes?\na) Andrea Ghez\nb) Vera Rubin\nc) Jocelyn Bell Burnell\nd) Chien-Shiung Wu",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 50,
+        "question": "Who received the 2018 Nobel Prize in Chemistry for her pioneering work in directed evolution of enzymes?\na) Frances Arnold\nb) Jennifer Doudna\nc) Emmanuelle Charpentier\nd) Ada Yonath",
+        "answer": "Answer not provided"
+      },
+      {
+        "points": 60,
+        "question": "Which two female scientists were jointly awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 gene-editing technology?\na) Jennifer Doudna and Emmanuelle Charpentier\nb) Frances Arnold and Ada Yonath\nc) Dorothy Hodgkin and Rosalind Franklin\nd) Marie Curie and Irène Joliot-Curie",
+        "answer": "Answer not provided"
+      }
+    ]
+  ]
+}
