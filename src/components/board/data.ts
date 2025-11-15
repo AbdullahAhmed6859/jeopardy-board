@@ -35,8 +35,8 @@ const oLevel: Data = {
       {
         points: 30,
         question:
-          "Which nerve helps move the tongue\n a)Trochlear\nb) Hypoglossal\nc) Vagus\nd) Olfactory",
-        answer: "b) Hypoglossal",
+          "Which nerve helps move the tongue\n A) Trochlear\nB) Hypoglossal\nC) Vagus\nD) Olfactory",
+        answer: "B) Hypoglossal",
       },
       {
         points: 40,
@@ -152,7 +152,7 @@ const oLevel: Data = {
       },
       {
         points: 40,
-        question: "A=[3 -2\n1/2 4]\nFind its determinant:",
+        question: "A=[3  -2\n1/2 4]\nFind its determinant:",
         answer: "13",
       },
       {
@@ -170,115 +170,115 @@ const oLevel: Data = {
       {
         points: 10,
         question:
-          "Which of the following is the smallest unit of data in a computer?\na) Bit\nb) KB\nc) Nibble\nd) Byte",
-        answer: "a) Bit",
+          "Which of the following is the smallest unit of data in a computer?\na) Bit\nb) KB\nC) Nibble\nD) Byte",
+        answer: "A) Bit",
       },
       {
         points: 20,
         question:
-          "All C language functions that do not return values should be declared as returning type\na) empty.\nb) int.\nc) null.\nd) void",
-        answer: "d) void",
+          "All C language functions that do not return values should be declared as returning type\na) empty.\nb) int.\nC) null.\nD) void",
+        answer: "D) void",
       },
       {
         points: 30,
         question:
-          "What are the disadvantages of arrays?\na) Index value of an array can be negative\nb) Elements are sequentially accessed\nc) Data structure like queue or stack cannot be implemented\nd) There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+          "What are the disadvantages of arrays?\na) Index value of an array can be negative\nb) Elements are sequentially accessed\nC) Data structure like queue or stack cannot be implemented\nD) There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
         answer:
-          "d) There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+          "D) There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
       },
       {
         points: 40,
         question:
-          "Which of the following is the correct binary representation of the given octal number? (345)?\n(A) 011000101\n(B) 01100010\n(C) 111000101\n(D) 011100101",
+          "Which of the following is the correct binary representation of the given octal number? (345)?\nA) 011000101\nB) 01100010\nC) 111000101\n(D) 011100101",
         answer: "D) 011100101",
       },
       {
         points: 50,
         question:
-          "Which of the following statements are correct regarding Database Management System?\n(i) It is a collection of data.\n(ii) It provides an abstract view of data that hides the details.\n(iii) It is a computerized record-keeping system.\n(iv) It allows users to define, store, retrieve and update the information contained in the database.\n(A) (i) and (ii) only\n(B) (ii) and (iii) only\n(C) (i), (ii) and (iv)\n(D) (i), (ii), (iii) and (iv)",
+          "Which of the following statements are correct regarding Database Management System?\n(i) It is a collection of data.\n(ii) It provides an abstract view of data that hides the details.\n(iii) It is a computerized record-keeping system.\n(iv) It allows users to define, store, retrieve and update the information contained in the database.\nA) (i) and (ii) only\nB) (ii) and (iii) only\nC) (i), (ii) and (iv)\n(D) (i), (ii), (iii) and (iv)",
         answer: "D) (i), (ii), (iii) and (iv)",
       },
       {
         points: 60,
         question:
-          "The prefix form of A-B/(C*D^E) is?\na) -A/B*C^DE\nb) -A/BC*^DE\nc) -ABCD*^DE\nd) -/*^ACBDE",
-        answer: "a) -A/B*C^DE",
+          "The prefix form of A-B/(C*D^E) is?\na) -A/B*C^DE\nb) -A/BC*^DE\nC) -ABCD*^DE\nD) -/*^ACBDE",
+        answer: "A) -A/B*C^DE",
       },
     ],
     [
       {
         points: 10,
         question:
-          "Which pollutant is primarily responsible for ozone layer depletion?\na) Carbon monoxide\nb) Sulfur dioxide\nc) Chlorofluorocarbons (CFCs)\nd) Methane",
-        answer: "c) CHLOROFLUOROCARBONS",
+          "Which pollutant is primarily responsible for ozone layer depletion?\na) Carbon monoxide\nb) Sulfur dioxide\nC) Chlorofluorocarbons (CFCs)\nD) Methane",
+        answer: "C) CHLOROFLUOROCARBONS",
       },
       {
         points: 20,
         question:
-          "Which of the following is a sedimentary rock:\na) slate\nb) marble\nc) basalt\nd) sandstone",
-        answer: "d) SANDSTONE",
+          "Which of the following is a sedimentary rock:\na) slate\nb) marble\nC) basalt\nD) sandstone",
+        answer: "D) SANDSTONE",
       },
       {
         points: 30,
         question:
-          "Mount Vesuvius in Italy is a typical:\na) mud volcano\nb) caldera\nc) cinder cone\nd) composite volcano",
-        answer: "d) COMPOSITE VOLCANO",
+          "Mount Vesuvius in Italy is a typical:\na) mud volcano\nb) caldera\nC) cinder cone\nD) composite volcano",
+        answer: "D) COMPOSITE VOLCANO",
       },
       {
         points: 40,
         question:
-          "What is the main environmental impact of eutrophication?\na). Increased fish population\nb) Oxygen depletion\nc) Improved water clarity\nd) Reduced algae growth",
-        answer: "b) OXYGEN DEPLETION",
+          "What is the main environmental impact of eutrophication?\na). Increased fish population\nb) Oxygen depletion\nC) Improved water clarity\nD) Reduced algae growth",
+        answer: "B) OXYGEN DEPLETION",
       },
       {
         points: 50,
         question:
-          "Which farming practice is considered sustainable?\na) Monoculture\nb) Slash-and-burn\nc) Crop rotation\nd) Overgrazing",
-        answer: "c) CROP ROTATION",
+          "Which farming practice is considered sustainable?\na) Monoculture\nb) Slash-and-burn\nC) Crop rotation\nD) Overgrazing",
+        answer: "C) CROP ROTATION",
       },
       {
         points: 60,
         question:
-          "When Environmental Lapse Rate (ELR) is greater than Adiabatic Lapse Rate (ALR), then which of the following occurs?\na) Super adiabatic lapse rate\nb) Neutral lapse rate\nc) Adiabatic lapse rate\nd) Sub adiabatic lapse rate",
-        answer: "a) SUPER ADIABATIC LAPSE RATE",
+          "When Environmental Lapse Rate (ELR) is greater than Adiabatic Lapse Rate (ALR), then which of the following occurs?\na) Super adiabatic lapse rate\nb) Neutral lapse rate\nC) Adiabatic lapse rate\nD) Sub adiabatic lapse rate",
+        answer: "A) SUPER ADIABATIC LAPSE RATE",
       },
     ],
     [
       {
         points: 10,
         question:
-          "Which female Nobel laureate in Physics was awarded for her work on radioactivity?\na) Lise Meitner\nb) Irène Joliot-Curie\nc) Marie Curie\nd) Donna Strickland",
-        answer: "c) Marie Curie",
+          "Which female Nobel laureate in Physics was awarded for her work on radioactivity?\na) Lise Meitner\nb) Irène Joliot-Curie\nC) Marie Curie\nD) Donna Strickland",
+        answer: "C) Marie Curie",
       },
       {
         points: 20,
         question:
-          "Who became the first woman to win the Nobel Prize in Chemistry for discovering the structure of vitamin B12 and insulin?\na) Rosalind Franklin\nb) Dorothy Hodgkin\nc) Ada Yonath\nd) Frances Arnold",
-        answer: "b) Dorothy Hodgkin",
+          "Who became the first woman to win the Nobel Prize in Chemistry for discovering the structure of vitamin B12 and insulin?\na) Rosalind Franklin\nb) Dorothy Hodgkin\nC) Ada Yonath\nD) Frances Arnold",
+        answer: "B) Dorothy Hodgkin",
       },
       {
         points: 30,
         question:
-          "Who is the first woman to win the Nobel Prize in Physics in the 21st century, recognized for her work on laser physics?\na) Andrea Ghez\nb) Donna Strickland\nc) Lene Hau\nd) Maria Goeppert-Mayer",
-        answer: "b) Donna Strickland",
+          "Who is the first woman to win the Nobel Prize in Physics in the 21st century, recognized for her work on laser physics?\na) Andrea Ghez\nb) Donna Strickland\nC) Lene Hau\nD) Maria Goeppert-Mayer",
+        answer: "C) Donna Strickland",
       },
       {
         points: 40,
         question:
-          "Which female Nobel laureate shared the 2020 Nobel Prize in Physics for discovering supermassive black holes?\na) Andrea Ghez\nb) Vera Rubin\nc) Jocelyn Bell Burnell\nd) Chien-Shiung Wu",
-        answer: "a) Andrea Ghez",
+          "Which female Nobel laureate shared the 2020 Nobel Prize in Physics for discovering supermassive black holes?\na) Andrea Ghez\nb) Vera Rubin\nC) Jocelyn Bell Burnell\nD) Chien-Shiung Wu",
+        answer: "A) Andrea Ghez",
       },
       {
         points: 50,
         question:
-          "Who received the 2018 Nobel Prize in Chemistry for her pioneering work in directed evolution of enzymes?\na) Frances Arnold\nb) Jennifer Doudna\nc) Emmanuelle Charpentier\nd) Ada Yonath",
-        answer: "a) Frances Arnold",
+          "Who received the 2018 Nobel Prize in Chemistry for her pioneering work in directed evolution of enzymes?\na) Frances Arnold\nb) Jennifer Doudna\nC) Emmanuelle Charpentier\nD) Ada Yonath",
+        answer: "A) Frances Arnold",
       },
       {
         points: 60,
         question:
-          "Which two female scientists were jointly awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 gene-editing technology?\na) Jennifer Doudna and Emmanuelle Charpentier\nb) Frances Arnold and Ada Yonath\nc) Dorothy Hodgkin and Rosalind Franklin\nd) Marie Curie and Irène Joliot-Curie",
-        answer: "a) Jennifer Doudna and Emmanuelle Charpentier",
+          "Which two female scientists were jointly awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 gene-editing technology?\na) Jennifer Doudna and Emmanuelle Charpentier\nb) Frances Arnold and Ada Yonath\nC) Dorothy Hodgkin and Rosalind Franklin\nD) Marie Curie and Irène Joliot-Curie",
+        answer: "A) Jennifer Doudna and Emmanuelle Charpentier",
       },
     ],
   ],
@@ -299,37 +299,37 @@ const aLevel: Data = {
       {
         points: 10,
         question:
-          "Under a microscope, plant cells appeared rigid in shape unlike flexible animal cells.\nWhich feature can explain this difference?\n(a) Cell Wall\n(b) Vacuole\n(c) Cytoskeleton\n(d) Plasma Membrane",
+          "Under a microscope, plant cells appeared rigid in shape unlike flexible animal cells.\nWhich feature can explain this difference?\nA) Cell Wall\nB) Vacuole\nC) Cytoskeleton\n(D) Plasma Membrane",
         answer: "Cell Wall",
       },
       {
         points: 20,
         question:
-          "Which type of joint allows bending of the elbow joint and has a synovial cavity?\n(a) Pubic symphysis\n(b) Fibrous joint\n(c) Hinge joint\n(d) Cartilaginous joint",
+          "Which type of joint allows bending of the elbow joint and has a synovial cavity?\nA) Pubic symphysis\nB) Fibrous joint\nC) Hinge joint\n(D) Cartilaginous joint",
         answer: "Hinge joint",
       },
       {
         points: 30,
         question:
-          "A man with blood type A and a woman with blood type B have a child with blood type 0. What are the genotypes of the parents?\n(a) IAIA and IBIB\n(b) IAi and IBi\n(c) IAIB and ii\n(d) IAi and IBIB",
+          "A man with blood type A and a woman with blood type B have a child with blood type 0. What are the genotypes of the parents?\nA) IAIA and IBIB\nB) IAi and IBi\nC) IAIB and ii\n(D) IAi and IBIB",
         answer: "IAi and IBi",
       },
       {
         points: 40,
         question:
-          "Which of the following is correct about the structure of the brain?\n(a) Cerebral cortex is outer part consists of grey matter\n(b) Cerebral medulla is inner part consists of grey matter\n(c) Cerebral cortex is inner part consists of white matter\n(d) Cerebral medulla is outer part consists of white matter",
+          "Which of the following is correct about the structure of the brain?\nA) Cerebral cortex is outer part consists of grey matter\nB) Cerebral medulla is inner part consists of grey matter\nC) Cerebral cortex is inner part consists of white matter\n(D) Cerebral medulla is outer part consists of white matter",
         answer: "Cerebral cortex is outer part consists of grey matter",
       },
       {
         points: 50,
         question:
-          "In the E. coli lac operon, what molecule binds to the repressor protein to inactivate it?\n(a) Glucose\n(b) Lactose (as allolactose)\n(c) CAMP\n(d) RNA Polymerase",
+          "In the E. coli lac operon, what molecule binds to the repressor protein to inactivate it?\nA) Glucose\nB) Lactose (as allolactose)\nC) CAMP\n(D) RNA Polymerase",
         answer: "Lactose (as allolactose)",
       },
       {
         points: 60,
         question:
-          "What is the primary function of siRNA in a eukaryotic cell?\n(a) To transport amino acids to the ribosome\n(b) To act as a template for DNA synthesis\n(c) To bind to mRNA and trigger its degradation\n(d) To unwind DNA during replication",
+          "What is the primary function of siRNA in a eukaryotic cell?\nA) To transport amino acids to the ribosome\nB) To act as a template for DNA synthesis\nC) To bind to mRNA and trigger its degradation\n(D) To unwind DNA during replication",
         answer: "To bind to mRNA and trigger its degradation",
       },
     ],
@@ -337,228 +337,227 @@ const aLevel: Data = {
       {
         points: 10,
         question:
-          "The pH of a $1.0\\times10^{-3}$ M HCl solution is approximately:\n(a) 1\n(b) 2\n(c) 3\n(d) 4",
-        answer: "3",
+          "TThe pH of a 1.0 x 10⁻³ M HCl solution is approximately:\nA) 1\nB) 2\nC) 3\nD) 4",
+        answer: "C) 3",
       },
       {
         points: 20,
         question:
-          "Which of the following is correct about isotopes?\n(a) Same neutrons, different protons\n(b) Same protons, different neutrons\n(c) Same protons, different electrons\n(d) Same electrons, different protons",
-        answer: "Same protons, different neutrons",
+          "What result does acetic acid give in a litmus test? \nA) It turns red litmus paper to blue\nB) It turns blue litmus paper to red \nC) No change\nD) It turns blue litmus paper to green",
+        answer: "B) It turns blue litmus paper to red",
       },
       {
         points: 30,
         question:
-          "Which aqueous salt solution is basic?\n(a) NH4Cl\n(b) NaCl\n(c) $KNO_{3}$\n(d) $Na_{2}CO_{3}$",
-        answer: "$Na_{2}CO_{3}$",
+          "Which aqueous salt solution is basic?\nA) NH4Cl\nB) NaCl\nC) KNO₃ \nD) Na₂CO₃ ",
+        answer: "D) Na₂CO₃",
       },
       {
         points: 40,
         question:
-          "Which of the following explains high melting points of ionic compounds?\n(a) Covalent bonds\n(b) Electrostatic forces\n(c) Van der Waals forces\n(d) Hydrogen bonding",
-        answer: "Electrostatic forces",
+          "Which of the following explains high melting points of ionic compounds?\nA) Covalent bonds\nB) Electrostatic forces\nC) Van der Waals forces\nD) Hydrogen bonding",
+        answer: "B) Electrostatic forces",
       },
       {
         points: 50,
         question:
-          "Visible light is not used to determine electron position because its wavelength is too large compared to:\n(a) Energy\n(b) Velocity\n(c) Diameter\n(d) Momentum",
-        answer: "Momentum",
+          "Visible light is not used to determine electron position because its wavelength is too large compared to:\nA) Energy\nB) Velocity\nC) Diameter\nD) Momentum",
+        answer: "D) Momentum",
       },
       {
         points: 60,
         question:
-          "Which metal has seven electrons in its 3d subshell in +2 oxidation state?\n(a) Cr\n(b) Fe\n(c) Co\n(d) Cu",
-        answer: "Co",
+          "Which metal has seven electrons in its 3d subshell in +2 oxidation state?\nA) Cr\nB) Fe\nC) Co\nD) Cu",
+        answer: "C) Co",
       },
     ],
     [
       {
         points: 10,
         question:
-          "SI unit of power is:\n(a) Joule\n(b) Watt\n(c) Newton\n(d) Pascal",
-        answer: "Watt",
+          "SI unit of power is:\nA) Joule\nB) Watt\nC) Newton\nD) Pascal",
+        answer: "B) Watt",
       },
       {
         points: 20,
         question:
-          "Energy possessed by a moving body is called:\n(a) Potential\n(b) Thermal\n(c) Kinetic\n(d) Chemical",
-        answer: "Kinetic",
+          "What form of energy does a book gain when lifted to a higher shelf? \nA) Gravitational Potential\nB) Elastic\nC) Kinetic\nD) Chemical",
+        answer: "A) Gravitational Potential",
       },
       {
         points: 30,
         question:
-          "Work is the product of force and what quantity?\n(a) Mass\n(b) Displacement\n(c) Velocity\n(d) Acceleration",
-        answer: "Displacement",
+          "Work is the product of force and what quantity?\nA) Mass\nB) Displacement\nC) Velocity\n(D) Acceleration",
+        answer: "B) Displacement",
       },
       {
         points: 40,
         question:
-          "A copper and iron wire connected in series; which gets hotter?\n(a) Both same\n(b) Copper\n(c) Iron\n(d) None",
-        answer: "Iron",
+          "A copper and iron wire connected in series; which gets hotter?\nA) Both same\nB) Copper\nC) Iron\n(D) None",
+        answer: "C) Iron",
       },
       {
         points: 50,
         question:
-          "A body dropped on elastic surface returns to same height; KE vs time graph is:\n(a) Linear\n(b) Parabolic\n(c) Triangular pulses\n(d) Constant line",
-        answer: "Triangular pulses",
+          "A body dropped on elastic surface returns to same height; KE vs time graph is:\nA) Linear\nB) Parabolic\nC) Triangular pulses\n(D) Constant line",
+        answer: "C) Triangular pulses",
       },
       {
         points: 60,
         question:
-          "Work done by gravity is independent of path because:\n(a) Path matters\n(b) Weak force\n(c) Depends on initial and final heights\n(d) Friction cancels work",
-        answer: "Depends on initial and final heights",
+          "Work done by gravity is independent of path because:\nA) Path matters\nB) Weak force\nC) Depends on initial and final heights\n(D) Friction cancels work",
+        answer: "C) Depends on initial and final heights",
+      },
+    ],
+    [
+      {
+        points: 10,
+        question: "tan (45°) equals:\nA) 0\nB) 1/√3 \nC) 1\nD) √3",
+        answer: "C)1",
+      },
+      {
+        points: 20,
+        question: "If If g(x)=x², then g(g(-1)) = \nA) -4\nB)-1\nC) 1\nD) 4",
+        answer: "D) 4",
+      },
+      {
+        points: 30,
+        question:
+          "Which function is odd?\nA) -x² \nB) (-x)² \nC) -x³+3 \nD) -x³+3x",
+        answer: "D)-x³+3x",
+      },
+      {
+        points: 40,
+        question:
+          "The Mean Value Theorem states that there exists c where:\nA)f'(C)=0 \nB) f(C)=0\nC) f'(C)=[f(B)-f(A)]/(b-a)\nD) fC)=[fA)+fB)]/2",
+        answer: "C) f'(C)=[f(B)-f(A)]/(b-a)",
+      },
+      {
+        points: 50,
+        question:
+          "A complex number z satisfies |z-3i|=3, largest |z|=\nA) 3\nB) 4\nC) 5\nD) 6",
+        answer: "D) 6",
+      },
+      {
+        points: 60,
+        question:
+          "f(x)=ln(x²+1) is:\nA) Odd\nB) Even\nC) Periodic\nD) Unbounded",
+        answer: "B) Even",
       },
     ],
     [
       {
         points: 10,
         question:
-          "tan (45°) equals:\n(a) 0\n(b) $1/\\sqrt{3}$\n(c) 1\n(d) $\\sqrt{3}$",
-        answer: "1",
+          "What is the main job of the operating system?\nA) To design websites\nB) To manage computer hardware and software\nC) To write computer program automatically\nD) To display internet ads",
+        answer: "B) To manage computer hardware and software",
       },
       {
         points: 20,
         question:
-          "If $g(x)=x^{2}$ then $g(g(-1))=$\n(a) -4\n(b)-1\n(c) 1\n(d) 4",
-        answer: "4",
+          "Scanner that reads filled bubbles is:\nA) OMR\nB) OCR\nC) QR reader\nD) MICR",
+        answer: "A) OMR",
       },
       {
         points: 30,
         question:
-          "Which function is odd?\n(a) $-x^{2}$\n(b) $(-x)^{2}$\n(c) $-x^{3}+3$\n(d) $-x^{3}+3x$",
-        answer: "$-x^{3}+3x$",
+          "OOP principle bundling data and methods is:\nA) Inheritance\nB) Polymorphism\nC) Encapsulation\nD) Abstraction",
+        answer: "C) Encapsulation",
       },
       {
         points: 40,
         question:
-          "The Mean Value Theorem states that there exists c where:\n(a) $f^{\\prime}(c)=0$\n(b) $f(c)=0$\n(c) $f^{\\prime}(c)=[f(b)-f(a)]/(b-a)$\n(d) $f(c)=[f(a)+f(b)]/2$",
-        answer: "$f^{\\prime}(c)=[f(b)-f(a)]/(b-a)$",
+          "In programming, which is used for decision making?\nA) while\nB) if-else\nC) array\nD) function",
+        answer: "B) if-else",
       },
       {
         points: 50,
         question:
-          "A complex number z satisfies $|z-3i|=3,$ largest $|z|=$\n(a) 3\n(b) 4\n(c) 5\n(d) 6",
-        answer: "6",
+          "Which layer provides reliable delivery?\nA) Data Link\nB) Network\nC) Transport\nD) Session",
+        answer: "C) Transport",
       },
       {
         points: 60,
         question:
-          "$f(x)=ln(x^{2}+1)$ is:\n(a) Odd\n(b) Even\n(c) Periodic\n(d) Unbounded",
-        answer: "Even",
+          "In RSA, valid public exponent 'e' must satisfy:\nA) e < φ(η)\nB) gcd(e,φ(n))=1 \nC) e=φ(n) \nD) e=φ(n)/2",
+        answer: "B) gcd(e,φ(n))=1",
       },
     ],
     [
       {
         points: 10,
         question:
-          "What is the main job of the operating system?\n(a) To design websites\n(b) To manage computer hardware and software\n(c) To write computer program automatically\n(d) To display internet ads",
-        answer: "To manage computer hardware and software",
+          "Which human activity is the primary source of the sulfur dioxide (SO₂) that leads to acid rain?\n\nA) Rice cultivation\n\nB) Burning coal for electricity\n\nC) Using aerosol sprays\n\nD) Nuclear power generation",
+        answer: "B) Burning coal for electricity",
       },
       {
         points: 20,
         question:
-          "Scanner that reads filled bubbles is:\n(a) OMR\n(b) OCR\n(c) QR reader\n(d) MICR",
-        answer: "OMR",
+          " Which of the following lists the three recognized levels of biodiversity? \nA) Plants, Animals, and Microbes  \nB) Genetic, Species, and Ecosystem diversity  \nC) Individual, Population, and Community diversity  \n D) Local, Regional, and Global diversity ",
+        answer: "B) Genetic, Species, and Ecosystem diversity",
       },
       {
         points: 30,
         question:
-          "OOP principle bundling data and methods is:\n(a) Inheritance\n(b) Polymorphism\n(c) Encapsulation\n(d) Abstraction",
-        answer: "Encapsulation",
+          "Biodegradable waste example:\nA) Plastic bottle\nB) Glass jar\nC) Aluminum can\nD) Apple core",
+        answer: "D) Apple core",
       },
       {
         points: 40,
         question:
-          "In programming, which is used for decision making?\n(a) while\n(b) if-else\n(c) array\n(d) function",
-        answer: "if-else",
+          "Planting legumes (like beans, peas, or clover) as part of a crop rotation is a key strategy for improving soil fertility. What is the primary benefit these specific plants provide to the soil? \nA) They break up compacted soil with their deep taproots.  \nB) They are excellent at attracting beneficial pollinators.  \nC) They host bacteria that convert atmospheric nitrogen into a usable form for plants.  \nD) They add large amounts of phosphorus to the soil. ",
+        answer:
+          "C) They host bacteria that convert atmospheric nitrogen into a usable form for plants.",
       },
       {
         points: 50,
         question:
-          "Which layer provides reliable delivery?\n(a) Data Link\n(b) Network\n(c) Transport\n(d) Session",
-        answer: "Transport",
+          "Radon comes from decay of:\nA) Plutonium\nB) Uranium\nC) Thorium\nD) Potassium",
+        answer: "B) Uranium",
       },
       {
         points: 60,
         question:
-          "In RSA, valid public exponent 'e' must satisfy:\n(a) e < φ(η)\n(b) $gcd(e,\\varphi(n))=1$\n(c) $e=\\varphi(n)$\n(d) $e=\\varphi(n)/2$",
-        answer: "$gcd(e,\\varphi(n))=1$",
+          "Transition zone between two ecosystems:\nA) Edge effect\nB) Ecotone\nC) Biome\nD) Succession",
+        answer: "B) Ecotone",
       },
     ],
     [
       {
         points: 10,
         question:
-          "Gas responsible for acid rain formation:\n(a) $CO_{2}$\n(b) $SO_{2}$\n(c) $CH_{4}$\n(d) $O_{3}$",
-        answer: "$SO_{2}$",
+          "Boundary marking Sun's influence end:\nA) Kuiper Belt\nB) Asteroid Belt\nC) Oort Cloud\nD) Heliopause",
+        answer: "D) Heliopause",
       },
       {
         points: 20,
         question:
-          "Biodiversity is defined as:\n(a) Number of species\n(b) Variety of life\n(c) Total mass\n(d) Rate of formation",
-        answer: "Variety of life",
+          "Planet that rotates on its side:\nA) Mars\nB) Jupiter\nC) Uranus\nD) Neptune",
+        answer: "C) Uranus",
       },
       {
         points: 30,
         question:
-          "Biodegradable waste example:\n(a) Plastic bottle\n(b) Glass jar\n(c) Aluminum can\n(d) Apple core",
-        answer: "Apple core",
+          "Great Red Spot on Jupiter has existed for:\nA) 50\nB) 150\nC) 350\n(D) 1000 years",
+        answer: "C) 350",
       },
       {
         points: 40,
         question:
-          "Practice that improves soil fertility:\n(a) Monoculture\n(b) Crop rotation\n(c) Over irrigation\n(d) Clear cutting",
-        answer: "Crop rotation",
+          "Moon of Saturn with dense atmosphere:\nA) Enceladus\nB) Iapetus\nC) Rhea\nD) Titan",
+        answer: "D) Titan",
       },
       {
         points: 50,
         question:
-          "Radon comes from decay of:\n(a) Plutonium\n(b) Uranium\n(c) Thorium\n(d) Potassium",
-        answer: "Uranium",
+          "Hexagonal cloud pattern on Saturn is called:\nA) Great Dark Spot\nB) Polar Vortex\nC) Hexagon\nD) Jet Stream",
+        answer: "C) Hexagon",
       },
       {
         points: 60,
         question:
-          "Transition zone between two ecosystems:\n(a) Edge effect\n(b) Ecotone\n(c) Biome\n(d) Succession",
-        answer: "Ecotone",
-      },
-    ],
-    [
-      {
-        points: 10,
-        question:
-          "Boundary marking Sun's influence end:\n(a) Kuiper Belt\n(b) Asteroid Belt\n(c) Oort Cloud\n(d) Heliopause",
-        answer: "Heliopause",
-      },
-      {
-        points: 20,
-        question:
-          "Planet that rotates on its side:\n(a) Mars\n(b) Jupiter\n(c) Uranus\n(d) Neptune",
-        answer: "Uranus",
-      },
-      {
-        points: 30,
-        question:
-          "Great Red Spot on Jupiter has existed for:\n(a) 50\n(b) 150\n(c) 350\n(d) 1000 years",
-        answer: "350",
-      },
-      {
-        points: 40,
-        question:
-          "Moon of Saturn with dense atmosphere:\n(a) Enceladus\n(b) Iapetus\n(c) Rhea\n(d) Titan",
-        answer: "Titan",
-      },
-      {
-        points: 50,
-        question:
-          "Hexagonal cloud pattern on Saturn is called:\n(a) Great Dark Spot\n(b) Polar Vortex\n(c) Hexagon\n(d) Jet Stream",
-        answer: "Hexagon",
-      },
-      {
-        points: 60,
-        question:
-          "Asteroid belt is between:\n(a) Earth & Mars\n(b) Mars & Jupiter\n(c) Jupiter & Saturn\n(d) Venus & Earth",
-        answer: "Mars & Jupiter",
+          "Asteroid belt is between:\nA) Earth & Mars\nB) Mars & Jupiter\nC) Jupiter & Saturn\nD) Venus & Earth",
+        answer: "B) Mars & Jupiter",
       },
     ],
   ],
