@@ -35,8 +35,8 @@ const oLevel: Data = {
       {
         points: 30,
         question:
-          "What would happen if a red blood cell were placed in pure water?",
-        answer: "It would swell and burst (lysis)",
+          "Which nerve helps move the tongue\n a)Trochlear\nb) Hypoglossal\nc) Vagus\nd) Olfactory",
+        answer: "b) Hypoglossal",
       },
       {
         points: 40,
@@ -135,8 +135,9 @@ const oLevel: Data = {
     [
       {
         points: 10,
-        question: "What is the sum of angles in a triangle?",
-        answer: "180",
+        question:
+          "What is formula for calculating the area of non right angled triangle?",
+        answer: "(1/2)ab sin C",
       },
       {
         points: 20,
