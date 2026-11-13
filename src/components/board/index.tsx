@@ -15,8 +15,6 @@ function Board({
 
   const handleClick = useCallback(
     (i: number, j: number) => {
-      console.log(`Card at row ${i}, column ${j} clicked`);
-      console.log(questions[i][j]);
       const questionData = questions[i][j];
       if (questionData) {
         setModalQuestion(questionData.question, questionData.answer);
@@ -28,7 +26,7 @@ function Board({
   return (
     <div className="grid grid-cols-7 gap-4 bg-black-200 rounded-lg overflow-hidden flex-grow p-5 text-2xl text-white mx-52">
       {categories.map((cat) => (
-        <BoardHeading>{cat}</BoardHeading>
+        <BoardHeading key={cat}>{cat}</BoardHeading>
       ))}
       {questions.map((row, i) =>
         row.map((q, j) => (

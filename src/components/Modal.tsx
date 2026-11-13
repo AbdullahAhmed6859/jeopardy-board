@@ -18,7 +18,7 @@ const Modal = () => {
   if (!isOpen) return null;
 
   return (
-    <div className="Z-50 fixed inset-0 bg-black bg-opacity-90 flex justify-center items-center z-1000 p-5 box-border">
+    <div className="fixed inset-0 bg-black bg-opacity-90 flex justify-center items-center z-50 p-5 box-border">
       <div className="bg-black-100 p-10 rounded-3xl relative text-center w-11/12 max-w-6xl max-h-90vh overflow-y-auto shadow-2xl">
         <button
           onClick={closeModal}
